@@ -79,7 +79,7 @@ It uses:
 ![s3-logs](screenshots/s3-logs.png)
 
 ## Architecture Diagram
-![architecture](screenshots/architecture-diagram.png)
+![architecture](architecture-diagram.png)
 
 ## Note on GuardDuty
 GuardDuty integration was planned, but due to account subscription restrictions, this project demonstrates manual threat detection using CloudTrail and CloudWatch.
